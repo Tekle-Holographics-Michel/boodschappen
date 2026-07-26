@@ -1,0 +1,182 @@
+[
+ {
+  "slug": "ah",
+  "name": "Albert Heijn",
+  "coverage": "FULL",
+  "coverage_label_nl": "Volledig assortiment",
+  "product_count": 26345,
+  "offer_count": 6263,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "jumbo",
+  "name": "Jumbo",
+  "coverage": "FULL",
+  "coverage_label_nl": "Volledig assortiment",
+  "product_count": 17725,
+  "offer_count": 227,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "dirk",
+  "name": "Dirk",
+  "coverage": "FULL",
+  "coverage_label_nl": "Volledig assortiment",
+  "product_count": 1851,
+  "offer_count": 113,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "plus",
+  "name": "PLUS",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "Incapsula WAF blocks non-browser clients on the OutSystems API (one probe succeeded, identical polite retries 403). Not circumvented."
+ },
+ {
+  "slug": "coop",
+  "name": "Coop",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "JS shell, no server-rendered data or discoverable public API"
+ },
+ {
+  "slug": "hoogvliet",
+  "name": "Hoogvliet",
+  "coverage": "OFFERS_ONLY",
+  "coverage_label_nl": "Alleen aanbiedingen",
+  "product_count": 0,
+  "offer_count": 14,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "dekamarkt",
+  "name": "DekaMarkt",
+  "coverage": "OFFERS_ONLY",
+  "coverage_label_nl": "Alleen aanbiedingen",
+  "product_count": 2499,
+  "offer_count": 106,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "vomar",
+  "name": "Vomar",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "Nuxt2 app, product/offer data loaded client-side; no discoverable endpoint"
+ },
+ {
+  "slug": "ekoplaza",
+  "name": "Ekoplaza",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "SSR page renders without prices (client-side pricing API, params unknown)"
+ },
+ {
+  "slug": "picnic",
+  "name": "Picnic",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "app-only, requires an account login; not automated on principle"
+ },
+ {
+  "slug": "lidl",
+  "name": "Lidl",
+  "coverage": "OFFERS_ONLY",
+  "coverage_label_nl": "Alleen aanbiedingen",
+  "product_count": 0,
+  "offer_count": 86,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "aldi",
+  "name": "ALDI",
+  "coverage": "PARTIAL",
+  "coverage_label_nl": "Deels beschikbaar",
+  "product_count": 2447,
+  "offer_count": 430,
+  "last_refresh": "2026-07-26",
+  "note": ""
+ },
+ {
+  "slug": "nettorama",
+  "name": "Nettorama",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "no online product data; folder is image-based"
+ },
+ {
+  "slug": "boni",
+  "name": "Boni",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "folder is a page-image viewer, no structured data"
+ },
+ {
+  "slug": "poiesz",
+  "name": "Poiesz",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "folder is a page-image viewer, no structured data"
+ },
+ {
+  "slug": "janlinders",
+  "name": "Jan Linders",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "no structured offer data found"
+ },
+ {
+  "slug": "spar",
+  "name": "SPAR",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "franchise site, offers vary per store behind store picker"
+ },
+ {
+  "slug": "mcd",
+  "name": "MCD",
+  "coverage": "UNAVAILABLE",
+  "coverage_label_nl": "Niet beschikbaar",
+  "product_count": 0,
+  "offer_count": 0,
+  "last_refresh": "2026-07-26",
+  "note": "folder is a page-image viewer, no structured data"
+ }
+]
