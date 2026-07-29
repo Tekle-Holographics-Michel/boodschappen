@@ -4,9 +4,9 @@
   "name": "Albert Heijn",
   "coverage": "FULL",
   "coverage_label_nl": "Volledig assortiment",
-  "product_count": 26306,
-  "offer_count": 3697,
-  "last_refresh": "2026-07-27",
+  "product_count": 26323,
+  "offer_count": 3706,
+  "last_refresh": "2026-07-29",
   "note": ""
  },
  {
@@ -14,19 +14,19 @@
   "name": "Jumbo",
   "coverage": "FULL",
   "coverage_label_nl": "Volledig assortiment",
-  "product_count": 17858,
+  "product_count": 17789,
   "offer_count": 227,
-  "last_refresh": "2026-07-27",
-  "note": ""
+  "last_refresh": "2026-07-29",
+  "note": "time cap hit before offers; offers: kept last-good (227 vs fresh 0);"
  },
  {
   "slug": "dirk",
   "name": "Dirk",
   "coverage": "FULL",
   "coverage_label_nl": "Volledig assortiment",
-  "product_count": 1851,
-  "offer_count": 102,
-  "last_refresh": "2026-07-27",
+  "product_count": 1823,
+  "offer_count": 109,
+  "last_refresh": "2026-07-29",
   "note": ""
  },
  {
@@ -36,7 +36,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "Incapsula WAF blocks non-browser clients on the OutSystems API (one probe succeeded, identical polite retries 403). Not circumvented."
  },
  {
@@ -46,7 +46,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "JS shell, no server-rendered data or discoverable public API"
  },
  {
@@ -55,8 +55,8 @@
   "coverage": "OFFERS_ONLY",
   "coverage_label_nl": "Alleen aanbiedingen",
   "product_count": 0,
-  "offer_count": 14,
-  "last_refresh": "2026-07-27",
+  "offer_count": 15,
+  "last_refresh": "2026-07-29",
   "note": ""
  },
  {
@@ -64,9 +64,9 @@
   "name": "DekaMarkt",
   "coverage": "OFFERS_ONLY",
   "coverage_label_nl": "Alleen aanbiedingen",
-  "product_count": 2499,
-  "offer_count": 96,
-  "last_refresh": "2026-07-27",
+  "product_count": 2494,
+  "offer_count": 110,
+  "last_refresh": "2026-07-29",
   "note": ""
  },
  {
@@ -76,7 +76,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "Nuxt2 app, product/offer data loaded client-side; no discoverable endpoint"
  },
  {
@@ -86,7 +86,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "SSR page renders without prices (client-side pricing API, params unknown)"
  },
  {
@@ -96,7 +96,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "app-only, requires an account login; not automated on principle"
  },
  {
@@ -106,7 +106,7 @@
   "coverage_label_nl": "Alleen aanbiedingen",
   "product_count": 0,
   "offer_count": 86,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": ""
  },
  {
@@ -114,9 +114,9 @@
   "name": "ALDI",
   "coverage": "PARTIAL",
   "coverage_label_nl": "Deels beschikbaar",
-  "product_count": 2406,
-  "offer_count": 380,
-  "last_refresh": "2026-07-27",
+  "product_count": 2573,
+  "offer_count": 535,
+  "last_refresh": "2026-07-29",
   "note": ""
  },
  {
@@ -126,7 +126,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "no online product data; folder is image-based"
  },
  {
@@ -136,7 +136,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "folder is a page-image viewer, no structured data"
  },
  {
@@ -146,7 +146,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "folder is a page-image viewer, no structured data"
  },
  {
@@ -156,7 +156,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "no structured offer data found"
  },
  {
@@ -166,7 +166,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "franchise site, offers vary per store behind store picker"
  },
  {
@@ -176,7 +176,7 @@
   "coverage_label_nl": "Niet beschikbaar",
   "product_count": 0,
   "offer_count": 0,
-  "last_refresh": "2026-07-27",
+  "last_refresh": "2026-07-29",
   "note": "folder is a page-image viewer, no structured data"
  }
 ]
